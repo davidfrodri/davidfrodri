@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Age-26-blue" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-yellow" />
   <img src="https://img.shields.io/badge/Lives-Medellin,%20Colombia-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-red" />
 </p>
 <h1 align="center"><b>Hi , I'm David Rodriguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
