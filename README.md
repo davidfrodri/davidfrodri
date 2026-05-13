@@ -7,7 +7,7 @@
 <h1 align="center"><b>Hi , I'm David Rodriguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
-I'm a **Full Stack Developer** with 3+ years of experience building modern web applications from backend to frontend. I mostly work with **NestJS**, **TypeScript**, **React**, and cloud platforms like **AWS**.
+I'm a **Full Stack Developer** with 4+ years of experience building modern web applications from backend to frontend. I mostly work with **NestJS**, **TypeScript**, **React**, and cloud platforms like **AWS**.
 
 I’m passionate about clean code, efficient systems, and building scalable products that bring real value. I also enjoy automating workflows with **CI/CD**, improving performance, and learning something new every week.
 
